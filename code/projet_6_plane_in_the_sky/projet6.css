@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://media2.giphy.com/media/4N1FZFE5AGO3qrUGkw/giphy.gif?cid=790b76111b79298379b682ed11ce96fbab9baf0149f49045&rid=giphy.gif&ct=g);
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%
+}
